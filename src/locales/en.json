@@ -1,0 +1,82 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "loginFailed": "Login failed. Please check your credentials.",
+    "loginSuccess": "Login successful!",
+    "logoutSuccess": "Logout successful!"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back!",
+    "totalApplications": "Total Applications",
+    "activeApplications": "Active Applications",
+    "interviews": "Interviews",
+    "offers": "Offers",
+    "rejections": "Rejections",
+    "recentActivity": "Recent Activity",
+    "upcomingInterviews": "Upcoming Interviews"
+  },
+  "jobs": {
+    "title": "Jobs",
+    "search": "Search Jobs",
+    "filters": "Filters",
+    "location": "Location",
+    "jobType": "Job Type",
+    "company": "Company",
+    "salary": "Salary",
+    "postedDate": "Posted Date",
+    "bookmark": "Bookmark",
+    "apply": "Apply",
+    "viewDetails": "View Details",
+    "noJobsFound": "No jobs found matching your criteria"
+  },
+  "applications": {
+    "title": "Applications",
+    "status": "Status",
+    "appliedDate": "Applied Date",
+    "lastUpdated": "Last Updated",
+    "viewApplication": "View Application",
+    "withdraw": "Withdraw",
+    "addNotes": "Add Notes",
+    "statuses": {
+      "draft": "Draft",
+      "applied": "Applied",
+      "under_review": "Under Review",
+      "interview_scheduled": "Interview Scheduled",
+      "rejected": "Rejected",
+      "offer_received": "Offer Received",
+      "withdrawn": "Withdrawn"
+    }
+  },
+  "forms": {
+    "validation": {
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "passwordTooShort": "Password must be at least 8 characters long",
+      "passwordsDoNotMatch": "Passwords do not match"
+    }
+  }
+} 

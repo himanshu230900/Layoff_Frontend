@@ -1,0 +1,82 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "clear": "Limpiar",
+    "submit": "Enviar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "close": "Cerrar"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "loginFailed": "Error de inicio de sesión. Verifica tus credenciales.",
+    "loginSuccess": "¡Inicio de sesión exitoso!",
+    "logoutSuccess": "¡Cierre de sesión exitoso!"
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "welcome": "¡Bienvenido de vuelta!",
+    "totalApplications": "Aplicaciones Totales",
+    "activeApplications": "Aplicaciones Activas",
+    "interviews": "Entrevistas",
+    "offers": "Ofertas",
+    "rejections": "Rechazos",
+    "recentActivity": "Actividad Reciente",
+    "upcomingInterviews": "Próximas Entrevistas"
+  },
+  "jobs": {
+    "title": "Trabajos",
+    "search": "Buscar Trabajos",
+    "filters": "Filtros",
+    "location": "Ubicación",
+    "jobType": "Tipo de Trabajo",
+    "company": "Empresa",
+    "salary": "Salario",
+    "postedDate": "Fecha de Publicación",
+    "bookmark": "Marcar",
+    "apply": "Aplicar",
+    "viewDetails": "Ver Detalles",
+    "noJobsFound": "No se encontraron trabajos que coincidan con tus criterios"
+  },
+  "applications": {
+    "title": "Aplicaciones",
+    "status": "Estado",
+    "appliedDate": "Fecha de Aplicación",
+    "lastUpdated": "Última Actualización",
+    "viewApplication": "Ver Aplicación",
+    "withdraw": "Retirar",
+    "addNotes": "Agregar Notas",
+    "statuses": {
+      "draft": "Borrador",
+      "applied": "Aplicado",
+      "under_review": "En Revisión",
+      "interview_scheduled": "Entrevista Programada",
+      "rejected": "Rechazado",
+      "offer_received": "Oferta Recibida",
+      "withdrawn": "Retirado"
+    }
+  },
+  "forms": {
+    "validation": {
+      "required": "Este campo es obligatorio",
+      "invalidEmail": "Por favor ingresa un correo electrónico válido",
+      "passwordTooShort": "La contraseña debe tener al menos 8 caracteres",
+      "passwordsDoNotMatch": "Las contraseñas no coinciden"
+    }
+  }
+} 

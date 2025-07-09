@@ -1,0 +1,42 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "clear": "Effacer",
+    "submit": "Soumettre",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "close": "Fermer"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "loginFailed": "Échec de la connexion. Vérifiez vos identifiants.",
+    "loginSuccess": "Connexion réussie !",
+    "logoutSuccess": "Déconnexion réussie !"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bon retour !",
+    "totalApplications": "Candidatures totales",
+    "activeApplications": "Candidatures actives",
+    "interviews": "Entretiens",
+    "offers": "Offres",
+    "rejections": "Rejets",
+    "recentActivity": "Activité récente",
+    "upcomingInterviews": "Entretiens à venir"
+  }
+} 
